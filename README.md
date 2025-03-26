@@ -6,6 +6,6 @@
 
 𝑶𝒏𝒆 𝒑𝒍𝒖𝒔 𝒐𝒏𝒆, 𝒋𝒖𝒔𝒕 𝒎𝒆 𝒂𝒏𝒅 𝒚𝒐𝒖
 
-<a href="https://www.bilibili.com/video/BV1YU4y1S7D1" style="color: #f4a261;">--"𝙈𝙖𝙜𝙞𝙘 𝙏𝙝𝙚𝙤𝙧𝙚𝙢"</a>
+<a href="https://monster-siren.hypergryph.com/music/880368" style="color: #f4a261;">--"𝙈𝙖𝙜𝙞𝙘 𝙏𝙝𝙚𝙤𝙧𝙚𝙢"</a>
 
 <!-- The functionality of Github Markdown is as useless as Steve Anthony Ballmer -->
